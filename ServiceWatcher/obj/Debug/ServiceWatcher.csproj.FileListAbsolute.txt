@@ -1,0 +1,10 @@
+C:\Users\ASM\source\repos\ServiceWatcher\ServiceWatcher\bin\Debug\ServiceWatcher.exe.config
+C:\Users\ASM\source\repos\ServiceWatcher\ServiceWatcher\bin\Debug\ServiceWatcher.exe
+C:\Users\ASM\source\repos\ServiceWatcher\ServiceWatcher\bin\Debug\ServiceWatcher.pdb
+C:\Users\ASM\source\repos\ServiceWatcher\ServiceWatcher\obj\Debug\ServiceWatcher.csproj.AssemblyReference.cache
+C:\Users\ASM\source\repos\ServiceWatcher\ServiceWatcher\obj\Debug\ServiceWatcher.ProjectInstaller.resources
+C:\Users\ASM\source\repos\ServiceWatcher\ServiceWatcher\obj\Debug\ServiceWatcher.ServiceWatcher.resources
+C:\Users\ASM\source\repos\ServiceWatcher\ServiceWatcher\obj\Debug\ServiceWatcher.csproj.GenerateResource.cache
+C:\Users\ASM\source\repos\ServiceWatcher\ServiceWatcher\obj\Debug\ServiceWatcher.csproj.CoreCompileInputs.cache
+C:\Users\ASM\source\repos\ServiceWatcher\ServiceWatcher\obj\Debug\ServiceWatcher.exe
+C:\Users\ASM\source\repos\ServiceWatcher\ServiceWatcher\obj\Debug\ServiceWatcher.pdb
